@@ -14,7 +14,8 @@ An interactive dashboard created using Excel to visualize and analyze healthcare
 - Microsoft Excel, Tableau)
 
  Screenshot:
-![Dashboard](Dashboard.png)
+![Dashboard](dashboard.png)
+
 
 About the Dataset:
 The dataset includes financial and operational data of a healthcare system, such as treatments, regions, departments, and payment methods.
