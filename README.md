@@ -14,7 +14,7 @@ An interactive dashboard created using Excel to visualize and analyze healthcare
 - Microsoft Excel, Tableau)
 
  Screenshot:
-![Dashboard](dashboard.png)
+![Dashboard](https://github.com/binal500/Healthcare-Insights-Dashboard/blob/main/Dashboard%202%20(1).png)
 
 
 About the Dataset:
